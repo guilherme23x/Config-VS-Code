@@ -1,1 +1,212 @@
-{"name":"Config-VsCode","settings":"{\"settings\":\"{\\n  \\\"workbench.startupEditor\\\": \\\"newUntitledFile\\\",\\n  \\\"editor.fontSize\\\": 15,\\n  \\\"editor.lineHeight\\\": 1.8,\\n  \\\"javascript.suggest.autoImports\\\": true,\\n  \\\"javascript.updateImportsOnFileMove.enabled\\\": \\\"always\\\",\\n  \\\"editor.rulers\\\": [\\n    80,\\n    120\\n  ],\\n  \\\"extensions.ignoreRecommendations\\\": true,\\n  \\\"typescript.tsserver.log\\\": \\\"off\\\",\\n  \\\"editor.stickyScroll.enabled\\\": false,\\n  \\\"workbench.tree.enableStickyScroll\\\": false,\\n  \\\"files.associations\\\": {\\n    \\\".env.*\\\": \\\"dotenv\\\",\\n    \\\".prettierrc\\\": \\\"json\\\",\\n    \\\"*.css\\\": \\\"css\\\",\\n    \\\".dev.vars\\\": \\\"dotenv\\\"\\n  },\\n  \\\"symbols.files.associations\\\": {\\n    \\\"*.module.ts\\\": \\\"nest\\\",\\n    \\\"*.guard.ts\\\": \\\"typescript\\\",\\n    \\\"*.spec.ts\\\": \\\"ts-test\\\",\\n    \\\"*.e2e-spec.ts\\\": \\\"ts-test\\\",\\n    \\\"*.mock.ts\\\": \\\"ts-test\\\",\\n    \\\"vitest.config.e2e.ts\\\": \\\"vite\\\",\\n    \\\".env.development.local\\\": \\\"gear\\\",\\n    \\\".env.test.local\\\": \\\"gear\\\",\\n    \\\".env.local\\\": \\\"gear\\\",\\n    \\\".env.example\\\": \\\"gear\\\"\\n  },\\n  \\\"tailwindCSS.experimental.classRegex\\\": [\\n    [\\n      \\\"tv\\\\\\\\(([^)]*)\\\\\\\\)\\\",\\n      \\\"[\\\\\\\"'`]([^\\\\\\\"'`]*).*?[\\\\\\\"'`]\\\"\\n    ],\\n    \\\"class:\\\\\\\\s*?[\\\\\\\"'`]([^\\\\\\\"'`]*).*?,\\\"\\n  ],\\n  \\\"editor.parameterHints.enabled\\\": false,\\n  \\\"editor.renderLineHighlight\\\": \\\"gutter\\\",\\n  \\\"cSpell.language\\\": \\\"en,pt\\\",\\n  \\\"typescript.updateImportsOnFileMove.enabled\\\": \\\"always\\\",\\n  \\\"editor.suggestSelection\\\": \\\"first\\\",\\n  \\\"explorer.confirmDelete\\\": false,\\n  \\\"gitlens.codeLens.recentChange.enabled\\\": false,\\n  \\\"terminal.integrated.showExitAlert\\\": false,\\n  \\\"[prisma]\\\": {\\n    \\\"editor.formatOnSave\\\": true\\n  },\\n  \\\"typescript.suggest.autoImports\\\": true,\\n  \\\"typescript.preferences.preferTypeOnlyAutoImports\\\": true,\\n  \\\"terminal.integrated.env.osx\\\": {\\n    \\\"FIG_NEW_SESSION\\\": \\\"1\\\"\\n  },\\n  \\\"workbench.editor.labelFormat\\\": \\\"short\\\",\\n  // \\\"editor.fontLigatures\\\": true,\\n  \\\"emmet.includeLanguages\\\": {\\n    \\\"javascript\\\": \\\"javascriptreact\\\"\\n  },\\n  \\\"emmet.syntaxProfiles\\\": {\\n    \\\"javascript\\\": \\\"jsx\\\"\\n  },\\n  \\\"cSpell.enableFiletypes\\\": [\\n    \\\"!asciidoc\\\",\\n    \\\"!c\\\",\\n    \\\"!cpp\\\",\\n    \\\"!csharp\\\",\\n    \\\"!go\\\",\\n    \\\"!handlebars\\\",\\n    \\\"!haskell\\\",\\n    \\\"!jade\\\",\\n    \\\"!java\\\",\\n    \\\"!latex\\\",\\n    \\\"!php\\\",\\n    \\\"!pug\\\",\\n    \\\"!python\\\",\\n    \\\"!restructuredtext\\\",\\n    \\\"!rust\\\",\\n    \\\"!scala\\\",\\n    \\\"!scss\\\"\\n  ],\\n  \\\"editor.acceptSuggestionOnCommitCharacter\\\": false,\\n  \\\"explorer.compactFolders\\\": false,\\n  \\\"git.enableSmartCommit\\\": true,\\n  \\\"editor.accessibilitySupport\\\": \\\"off\\\",\\n  \\\"explorer.confirmDragAndDrop\\\": false,\\n  \\\"terminal.integrated.fontSize\\\": 14,\\n  \\\"terminal.integrated.fontFamily\\\": \\\"JetBrainsMono Nerd Font\\\",\\n  \\\"editor.codeActionsOnSave\\\": {\\n    \\\"source.fixAll.eslint\\\": \\\"explicit\\\"\\n  },\\n  \\\"eslint.validate\\\": [\\n    \\\"javascript\\\",\\n    \\\"javascriptreact\\\",\\n    \\\"graphql\\\"\\n  ],\\n  \\\"editor.semanticHighlighting.enabled\\\": false,\\n  \\\"breadcrumbs.enabled\\\": false,\\n  \\\"workbench.productIconTheme\\\": \\\"fluent-icons\\\",\\n  \\\"editor.fontFamily\\\": \\\"JetBrains Mono\\\",\\n  \\\"gitlens.codeLens.authors.enabled\\\": false,\\n  \\\"editor.tabSize\\\": 2,\\n  \\\"security.workspace.trust.untrustedFiles\\\": \\\"newWindow\\\",\\n  \\\"files.exclude\\\": {\\n    \\\"**\\\\/CVS\\\": true,\\n    \\\"**\\\\/.DS_Store\\\": true,\\n    \\\"**\\\\/.hg\\\": true,\\n    \\\"**\\\\/.svn\\\": true,\\n    \\\"**\\\\/.git\\\": true,\\n    \\\".vscode\\\": true\\n    // \\\"node_modules\\\": true\\n  },\\n  \\\"workbench.iconTheme\\\": \\\"symbols\\\",\\n  \\\"update.mode\\\": \\\"default\\\",\\n  \\\"terminal.integrated.gpuAcceleration\\\": \\\"on\\\",\\n  \\\"terminal.integrated.defaultProfile.osx\\\": \\\"fish\\\",\\n  \\\"[jsonc]\\\": {\\n    \\\"editor.defaultFormatter\\\": \\\"vscode.json-language-features\\\"\\n  },\\n  \\\"[json]\\\": {\\n    \\\"editor.defaultFormatter\\\": \\\"vscode.json-language-features\\\"\\n  },\\n  \\\"window.commandCenter\\\": false,\\n  \\\"git.openRepositoryInParentFolders\\\": \\\"always\\\",\\n  \\\"symbols.hidesExplorerArrows\\\": false,\\n  \\\"[javascript]\\\": {\\n    \\\"editor.defaultFormatter\\\": \\\"vscode.typescript-language-features\\\"\\n  },\\n  \\\"console-ninja.featureSet\\\": \\\"Community\\\",\\n  \\\"workbench.editor.empty.hint\\\": \\\"hidden\\\",\\n  \\\"update.showReleaseNotes\\\": false,\\n  \\\"security.promptForLocalFileProtocolHandling\\\": false,\\n  \\\"workbench.activityBar.location\\\": \\\"bottom\\\",\\n  \\\"apc.activityBar\\\": {\\n    \\\"position\\\": \\\"bottom\\\",\\n    \\\"hideSettings\\\": true,\\n    \\\"size\\\": 48,\\n    \\\"itemMargin\\\": 8,\\n    \\\"itemSize\\\": 32\\n  },\\n  \\\"editor.hideCursorInOverviewRuler\\\": true,\\n  \\\"editor.minimap.enabled\\\": false,\\n  \\\"window.titleBarStyle\\\": \\\"native\\\",\\n  \\\"apc.electron\\\": {\\n    \\\"titleBarStyle\\\": \\\"hiddenInset\\\",\\n    \\\"trafficLightPosition\\\": {\\n      \\\"x\\\": 11,\\n      \\\"y\\\": 10\\n    },\\n    \\\"opacity\\\": 1,\\n    \\\"vibrancy\\\": \\\"dark\\\",\\n    \\\"frame\\\": false\\n  },\\n  \\\"apc.header\\\": {\\n    \\\"height\\\": 36\\n  },\\n  \\\"apc.listRow\\\": {\\n    \\\"height\\\": 24\\n  },\\n  \\\"apc.font.family\\\": \\\"Inter\\\",\\n  \\\"apc.stylesheet\\\": {\\n    \\\".title-label > h2\\\": \\\"display: none\\\",\\n    \\\".editor-actions\\\": \\\"display: none\\\",\\n    \\\".nosidebar .inline-tabs-placeholder\\\": \\\"width: 75px\\\",\\n    \\\".pane-header\\\": \\\"padding: 0 8px\\\",\\n    \\\".pane-body\\\": \\\"padding: 8px\\\",\\n    \\\".split-view-view:first-child .pane-header\\\": \\\"display: none !important;\\\",\\n    \\\".monaco-list-row\\\": \\\"border-radius: 4px;\\\",\\n    \\\".monaco-workbench .monaco-list:not(.element-focused):focus:before\\\": \\\"display: none;\\\"\\n  },\\n  \\\"editor.scrollbar.vertical\\\": \\\"visible\\\",\\n  \\\"explorer.sortOrder\\\": \\\"foldersNestsFiles\\\",\\n  \\\"explorer.fileNesting.patterns\\\": {\\n    \\\"package.json\\\": \\\".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*\\\",\\n    \\\"tailwind.config.*\\\": \\\"tailwind.config*, postcss.config*\\\",\\n    \\\".env.local\\\": \\\".env*\\\",\\n    \\\".env\\\": \\\".env*\\\"\\n  },\\n  \\\"explorer.fileNesting.enabled\\\": true,\\n  \\\"workbench.statusBar.visible\\\": false,\\n  \\\"editor.tokenColorCustomizations\\\": {\\n    \\\"textMateRules\\\": []\\n  },\\n  \\\"workbench.layoutControl.enabled\\\": false,\\n  \\\"workbench.colorTheme\\\": \\\"Min Dark\\\",\\n  \\\"window.menuBarVisibility\\\": \\\"toggle\\\",\\n  \\\"files.autoSave\\\": \\\"afterDelay\\\",\\n  \\\"vscode_custom_css.imports\\\": [\\n    \\\"file:///c:/Users/User/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js\\\"\\n  ]\\n}\"}","extensions":"[{\"identifier\":{\"id\":\"be5invis.vscode-custom-css\",\"uuid\":\"1b160753-ae5e-42bb-82ad-d115ce5c10f4\"},\"displayName\":\"Custom CSS and JS Loader\"},{\"identifier\":{\"id\":\"brandonkirbyson.vscode-animations\",\"uuid\":\"7d7c0d21-6653-4c11-9310-75b7180bbf81\"},\"displayName\":\"VSCode Animations\"},{\"identifier\":{\"id\":\"ecmel.vscode-html-css\",\"uuid\":\"aaee577c-f062-495a-9816-0cbd442f1d25\"},\"displayName\":\"HTML CSS Support\"},{\"identifier\":{\"id\":\"formulahendry.auto-close-tag\",\"uuid\":\"d3836729-9cc1-42c1-b2af-d50071f57d29\"},\"displayName\":\"Auto Close Tag\"},{\"identifier\":{\"id\":\"formulahendry.auto-rename-tag\",\"uuid\":\"6e440e71-8ed9-4f25-bb78-4b13096b8a03\"},\"displayName\":\"Auto Rename Tag\"},{\"identifier\":{\"id\":\"leandro-rodrigues.fluent-ui-vscode\",\"uuid\":\"fa2200f6-17d8-4574-8b00-eecaeee8c37e\"},\"displayName\":\"Fluent UI for VSCode\"},{\"identifier\":{\"id\":\"miguelsolorio.fluent-icons\",\"uuid\":\"41aac8eb-b4f4-408d-9708-320d033a17f8\"},\"displayName\":\"Fluent Icons\"},{\"identifier\":{\"id\":\"miguelsolorio.min-theme\",\"uuid\":\"e9e7f567-5669-4c9c-a2db-df05d6cf28ed\"},\"displayName\":\"Min Theme\"},{\"identifier\":{\"id\":\"miguelsolorio.symbols\",\"uuid\":\"cb54c3b9-1c64-4c4a-8b5a-887270ffe4b6\"},\"displayName\":\"Symbols\"},{\"identifier\":{\"id\":\"ms-dotnettools.csdevkit\",\"uuid\":\"7ad42776-8f7e-4214-bf67-4f0b518ef629\"},\"displayName\":\"C# Dev Kit\"},{\"identifier\":{\"id\":\"ms-dotnettools.csharp\",\"uuid\":\"d0bfc4ab-1d3a-4487-8782-7cf6027b4fff\"},\"displayName\":\"C#\"},{\"identifier\":{\"id\":\"ms-dotnettools.vscode-dotnet-runtime\",\"uuid\":\"1aab81a1-b3d9-4aef-976b-577d5d90fe3f\"},\"displayName\":\".NET Install Tool\"},{\"identifier\":{\"id\":\"ms-python.debugpy\",\"uuid\":\"4bd5d2c9-9d65-401a-b0b2-7498d9f17615\"},\"displayName\":\"Python Debugger\"},{\"identifier\":{\"id\":\"ms-python.python\",\"uuid\":\"f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5\"},\"displayName\":\"Python\"},{\"identifier\":{\"id\":\"ms-python.vscode-pylance\",\"uuid\":\"364d2426-116a-433a-a5d8-a5098dc3afbd\"},\"displayName\":\"Pylance\"},{\"identifier\":{\"id\":\"ms-vscode.vscode-typescript-next\",\"uuid\":\"15305aca-2588-4ca0-8147-ab2c64730b82\"},\"displayName\":\"JavaScript and TypeScript Nightly\"},{\"identifier\":{\"id\":\"msjsdiag.vscode-react-native\",\"uuid\":\"b35cd5b4-18db-46f9-ba9e-06096c3b22d3\"},\"displayName\":\"React Native Tools\"},{\"identifier\":{\"id\":\"ritwickdey.liveserver\",\"uuid\":\"b63c44fd-0457-4696-99e9-dbfdf70d77de\"},\"displayName\":\"Live Server\"},{\"identifier\":{\"id\":\"thecodemonkey.synthwave-x-fluoromachine-epic-animations\",\"uuid\":\"58f94c62-ca25-465f-b51b-587c7e0c13a3\"},\"displayName\":\"Synthwave x Fluoromachine & epic animations\"},{\"identifier\":{\"id\":\"xabikos.javascriptsnippets\",\"uuid\":\"a2cec723-5349-460d-9de9-0fd1f8d3456f\"},\"displayName\":\"JavaScript (ES6) code snippets\"},{\"identifier\":{\"id\":\"zhang-renyang.vscode-react\",\"uuid\":\"b84e1a89-f492-46b2-8970-b8648256aa10\"},\"displayName\":\"React\"}]","globalState":"{\"storage\":{\"workbench.panel.markers.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.markers.view\\\",\\\"isHidden\\\":false}]\",\"workbench.panel.output.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.output\\\",\\\"isHidden\\\":false}]\",\"terminal.hidden\":\"[{\\\"id\\\":\\\"terminal\\\",\\\"isHidden\\\":false}]\",\"workbench.explorer.views.state.hidden\":\"[{\\\"id\\\":\\\"outline\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"timeline\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.explorer.openEditorsView\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.explorer.emptyView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"npm\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.explorer.fileView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"solutionExplorer\\\",\\\"isHidden\\\":false}]\",\"workbench.scm.views.state.hidden\":\"[{\\\"id\\\":\\\"workbench.scm.repositories\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.scm\\\",\\\"isHidden\\\":false}]\",\"workbench.view.search.state.hidden\":\"[{\\\"id\\\":\\\"workbench.view.search\\\",\\\"isHidden\\\":false}]\",\"workbench.activityBar.location\":\"bottom\",\"workbench.activity.pinnedViewlets2\":\"[{\\\"id\\\":\\\"workbench.view.explorer\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":0},{\\\"id\\\":\\\"workbench.view.search\\\",\\\"pinned\\\":false,\\\"visible\\\":false,\\\"order\\\":1},{\\\"id\\\":\\\"workbench.view.scm\\\",\\\"pinned\\\":false,\\\"visible\\\":false,\\\"order\\\":2},{\\\"id\\\":\\\"workbench.view.debug\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":3},{\\\"id\\\":\\\"workbench.view.extensions\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":4},{\\\"id\\\":\\\"workbench.view.remote\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":4},{\\\"id\\\":\\\"workbench.view.extension.test\\\",\\\"pinned\\\":false,\\\"visible\\\":false,\\\"order\\\":6},{\\\"id\\\":\\\"workbench.view.extension.references-view\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":7},{\\\"id\\\":\\\"workbench.view.extension.reactViewContainer\\\",\\\"pinned\\\":false,\\\"visible\\\":false,\\\"order\\\":8},{\\\"id\\\":\\\"workbench.panel.chatSidebar\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":100},{\\\"id\\\":\\\"userDataProfiles\\\",\\\"pinned\\\":true,\\\"visible\\\":false},{\\\"id\\\":\\\"workbench.view.sync\\\",\\\"pinned\\\":true,\\\"visible\\\":false},{\\\"id\\\":\\\"workbench.view.editSessions\\\",\\\"pinned\\\":true,\\\"visible\\\":false}]\",\"workbench.panel.pinnedPanels\":\"[{\\\"id\\\":\\\"workbench.panel.markers\\\",\\\"pinned\\\":false,\\\"visible\\\":false,\\\"order\\\":0},{\\\"id\\\":\\\"workbench.panel.output\\\",\\\"pinned\\\":false,\\\"visible\\\":false,\\\"order\\\":1},{\\\"id\\\":\\\"workbench.panel.repl\\\",\\\"pinned\\\":false,\\\"visible\\\":false,\\\"order\\\":2},{\\\"id\\\":\\\"terminal\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":3},{\\\"id\\\":\\\"workbench.panel.testResults\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":3},{\\\"id\\\":\\\"~remote.forwardedPortsContainer\\\",\\\"pinned\\\":false,\\\"visible\\\":false,\\\"order\\\":5},{\\\"id\\\":\\\"refactorPreview\\\",\\\"pinned\\\":true,\\\"visible\\\":false}]\",\"workbench.panel.repl.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.repl.view\\\",\\\"isHidden\\\":false}]\",\"memento/gettingStartedService\":\"{\\\"installGit\\\":{\\\"done\\\":true},\\\"menuBarWeb\\\":{\\\"done\\\":true},\\\"settings\\\":{\\\"done\\\":true},\\\"pickColorTheme\\\":{\\\"done\\\":true},\\\"pickColorThemeWeb\\\":{\\\"done\\\":true}}\",\"workbench.panel.alignment\":\"center\",\"themeUpdatedNotificationShown\":\"true\",\"userDataProfiles.state.hidden\":\"[{\\\"id\\\":\\\"workbench.views.profiles.export.preview\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.profiles.import.preview\\\",\\\"isHidden\\\":false}]\",\"colorThemeData\":\"{\\\"id\\\":\\\"vs-dark miguelsolorio-min-theme-themes-min-dark-json\\\",\\\"label\\\":\\\"Min Dark\\\",\\\"settingsId\\\":\\\"Min Dark\\\",\\\"themeTokenColors\\\":[{\\\"settings\\\":{\\\"foreground\\\":\\\"#b392f0\\\"}},{\\\"settings\\\":{\\\"foreground\\\":\\\"#b392f0\\\"},\\\"scope\\\":[\\\"support.function\\\",\\\"keyword.operator.accessor\\\",\\\"meta.group.braces.round.function.arguments\\\",\\\"meta.template.expression\\\",\\\"markup.fenced_code meta.embedded.block\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\"},\\\"scope\\\":\\\"emphasis\\\"},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"bold\\\",\\\"foreground\\\":\\\"#FF7A84\\\"},\\\"scope\\\":[\\\"strong\\\",\\\"markup.heading.markdown\\\",\\\"markup.bold.markdown\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\"},\\\"scope\\\":[\\\"markup.italic.markdown\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"underline\\\",\\\"foreground\\\":\\\"#1976D2\\\"},\\\"scope\\\":\\\"meta.link.inline.markdown\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#9db1c5\\\"},\\\"scope\\\":[\\\"string\\\",\\\"markup.fenced_code\\\",\\\"markup.inline\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#6b737c\\\"},\\\"scope\\\":[\\\"comment\\\",\\\"string.quoted.docstring.multi\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#79b8ff\\\"},\\\"scope\\\":[\\\"constant.language\\\",\\\"variable.language.this\\\",\\\"variable.other.object\\\",\\\"variable.other.class\\\",\\\"variable.other.constant\\\",\\\"meta.property-name\\\",\\\"support\\\",\\\"string.other.link.title.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#f8f8f8\\\"},\\\"scope\\\":[\\\"constant.numeric\\\",\\\"constant.other.placeholder\\\",\\\"constant.character.format.placeholder\\\",\\\"meta.property-value\\\",\\\"keyword.other.unit\\\",\\\"keyword.other.template\\\",\\\"entity.name.tag.yaml\\\",\\\"entity.other.attribute-name\\\",\\\"support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#f97583\\\"},\\\"scope\\\":[\\\"keyword\\\",\\\"storage.modifier\\\",\\\"storage.type\\\",\\\"storage.control.clojure\\\",\\\"entity.name.function.clojure\\\",\\\"support.function.node\\\",\\\"punctuation.separator.key-value\\\",\\\"punctuation.definition.template-expression\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FF9800\\\"},\\\"scope\\\":\\\"variable.parameter.function\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#b392f0\\\"},\\\"scope\\\":[\\\"entity.name.type\\\",\\\"entity.other.inherited-class\\\",\\\"meta.function-call\\\",\\\"meta.instance.constructor\\\",\\\"entity.other.attribute-name\\\",\\\"entity.name.function\\\",\\\"constant.keyword.clojure\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#ffab70\\\"},\\\"scope\\\":[\\\"entity.name.tag\\\",\\\"string.quoted\\\",\\\"string.regexp\\\",\\\"string.interpolated\\\",\\\"string.template\\\",\\\"string.unquoted.plain.out.yaml\\\",\\\"keyword.other.template\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#316bcd\\\"},\\\"scope\\\":\\\"token.info-token\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#cd9731\\\"},\\\"scope\\\":\\\"token.warn-token\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#cd3131\\\"},\\\"scope\\\":\\\"token.error-token\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#800080\\\"},\\\"scope\\\":\\\"token.debug-token\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#bbbbbb\\\"},\\\"scope\\\":[\\\"punctuation.definition.arguments\\\",\\\"punctuation.definition.dict\\\",\\\"punctuation.separator\\\",\\\"meta.function-call.arguments\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#ffab70\\\"},\\\"scope\\\":\\\"markup.underline.link\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FF7A84\\\"},\\\"scope\\\":[\\\"beginning.punctuation.definition.list.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#ffab70\\\"},\\\"scope\\\":\\\"punctuation.definition.metadata.markdown\\\"},{\\\"settings\\\":{\\\"foreground\\\":\\\"#79b8ff\\\"},\\\"scope\\\":[\\\"punctuation.definition.string.begin.markdown\\\",\\\"punctuation.definition.string.end.markdown\\\"]}],\\\"semanticTokenRules\\\":[],\\\"extensionData\\\":{\\\"_extensionId\\\":\\\"miguelsolorio.min-theme\\\",\\\"_extensionIsBuiltin\\\":false,\\\"_extensionName\\\":\\\"min-theme\\\",\\\"_extensionPublisher\\\":\\\"miguelsolorio\\\"},\\\"themeSemanticHighlighting\\\":true,\\\"colorMap\\\":{\\\"editorIndentGuide.activeBackground\\\":\\\"#383838\\\",\\\"editorIndentGuide.background\\\":\\\"#2a2a2a\\\",\\\"editorRuler.foreground\\\":\\\"#2a2a2a\\\",\\\"editorLineNumber.foreground\\\":\\\"#727272\\\",\\\"activityBar.background\\\":\\\"#1a1a1a\\\",\\\"activityBar.foreground\\\":\\\"#7d7d7d\\\",\\\"activityBarBadge.background\\\":\\\"#383838\\\",\\\"badge.background\\\":\\\"#383838\\\",\\\"badge.foreground\\\":\\\"#c1c1c1\\\",\\\"button.background\\\":\\\"#333333\\\",\\\"editor.background\\\":\\\"#1f1f1f\\\",\\\"editor.lineHighlightBorder\\\":\\\"#303030\\\",\\\"editorGroupHeader.tabsBackground\\\":\\\"#1a1a1a\\\",\\\"editorGroupHeader.tabsBorder\\\":\\\"#1a1a1a\\\",\\\"editorSuggestWidget.background\\\":\\\"#1a1a1a\\\",\\\"focusBorder\\\":\\\"#444444\\\",\\\"foreground\\\":\\\"#888888\\\",\\\"gitDecoration.ignoredResourceForeground\\\":\\\"#444444\\\",\\\"input.background\\\":\\\"#2a2a2a\\\",\\\"input.foreground\\\":\\\"#e0e0e0\\\",\\\"list.activeSelectionBackground\\\":\\\"#212121\\\",\\\"list.activeSelectionForeground\\\":\\\"#f5f5f5\\\",\\\"list.focusBackground\\\":\\\"#292929\\\",\\\"list.highlightForeground\\\":\\\"#eaeaea\\\",\\\"list.hoverBackground\\\":\\\"#262626\\\",\\\"list.hoverForeground\\\":\\\"#9e9e9e\\\",\\\"list.inactiveSelectionBackground\\\":\\\"#212121\\\",\\\"list.inactiveSelectionForeground\\\":\\\"#f5f5f5\\\",\\\"panelTitle.activeBorder\\\":\\\"#1f1f1f\\\",\\\"panelTitle.activeForeground\\\":\\\"#fafafa\\\",\\\"panelTitle.inactiveForeground\\\":\\\"#484848\\\",\\\"peekView.border\\\":\\\"#444444\\\",\\\"peekViewEditor.background\\\":\\\"#242424\\\",\\\"pickerGroup.border\\\":\\\"#363636\\\",\\\"pickerGroup.foreground\\\":\\\"#eaeaea\\\",\\\"progressBar.background\\\":\\\"#fafafa\\\",\\\"scrollbar.shadow\\\":\\\"#1f1f1f\\\",\\\"sideBar.background\\\":\\\"#1a1a1a\\\",\\\"sideBarSectionHeader.background\\\":\\\"#202020\\\",\\\"statusBar.background\\\":\\\"#1a1a1a\\\",\\\"statusBar.debuggingBackground\\\":\\\"#1a1a1a\\\",\\\"statusBar.foreground\\\":\\\"#7e7e7e\\\",\\\"statusBar.noFolderBackground\\\":\\\"#1a1a1a\\\",\\\"statusBarItem.remoteForeground\\\":\\\"#7e7e7e\\\",\\\"statusBarItem.remoteBackground\\\":\\\"#1a1a1a00\\\",\\\"statusBarItem.prominentBackground\\\":\\\"#fafafa1a\\\",\\\"tab.activeBorder\\\":\\\"#1e1e1e\\\",\\\"tab.activeForeground\\\":\\\"#fafafa\\\",\\\"tab.border\\\":\\\"#1a1a1a\\\",\\\"tab.inactiveBackground\\\":\\\"#1a1a1a\\\",\\\"tab.inactiveForeground\\\":\\\"#727272\\\",\\\"textLink.foreground\\\":\\\"#cccccc\\\",\\\"textLink.activeForeground\\\":\\\"#fafafa\\\",\\\"titleBar.activeBackground\\\":\\\"#1a1a1a\\\",\\\"titleBar.border\\\":\\\"#00000000\\\",\\\"terminal.ansiBrightBlack\\\":\\\"#5c5c5c\\\",\\\"inputOption.activeBackground\\\":\\\"#3a3a3a\\\",\\\"debugIcon.continueForeground\\\":\\\"#ff7a84\\\",\\\"debugIcon.disconnectForeground\\\":\\\"#ff7a84\\\",\\\"debugIcon.pauseForeground\\\":\\\"#ff7a84\\\",\\\"debugIcon.restartForeground\\\":\\\"#79b8ff\\\",\\\"debugIcon.startForeground\\\":\\\"#79b8ff\\\",\\\"debugIcon.stepBackForeground\\\":\\\"#ff7a84\\\",\\\"debugIcon.stepIntoForeground\\\":\\\"#ff7a84\\\",\\\"debugIcon.stepOutForeground\\\":\\\"#ff7a84\\\",\\\"debugIcon.stepOverForeground\\\":\\\"#ff7a84\\\",\\\"debugIcon.stopForeground\\\":\\\"#79b8ff\\\",\\\"debugIcon.breakpointCurrentStackframeForeground\\\":\\\"#79b8ff\\\",\\\"debugIcon.breakpointDisabledForeground\\\":\\\"#848484\\\",\\\"debugIcon.breakpointForeground\\\":\\\"#ff7a84\\\",\\\"debugIcon.breakpointStackframeForeground\\\":\\\"#79b8ff\\\",\\\"debugIcon.breakpointUnverifiedForeground\\\":\\\"#848484\\\",\\\"symbolIcon.classForeground\\\":\\\"#ff9800\\\",\\\"symbolIcon.enumeratorForeground\\\":\\\"#ff9800\\\",\\\"symbolIcon.eventForeground\\\":\\\"#ff9800\\\",\\\"symbolIcon.methodForeground\\\":\\\"#b392f0\\\",\\\"symbolIcon.constructorForeground\\\":\\\"#b392f0\\\",\\\"symbolIcon.functionForeground\\\":\\\"#b392f0\\\",\\\"symbolIcon.fieldForeground\\\":\\\"#79b8ff\\\",\\\"symbolIcon.interfaceForeground\\\":\\\"#79b8ff\\\",\\\"symbolIcon.variableForeground\\\":\\\"#79b8ff\\\",\\\"symbolIcon.enumeratorMemberForeground\\\":\\\"#79b8ff\\\",\\\"diffEditor.insertedTextBackground\\\":\\\"#3a632a4b\\\",\\\"diffEditor.removedTextBackground\\\":\\\"#88063852\\\"},\\\"watch\\\":false}\",\"workbench.view.extension.reactViewContainer.state.hidden\":\"[{\\\"id\\\":\\\"reactView\\\",\\\"isHidden\\\":false}]\",\"workbench.welcomePage.walkthroughMetadata\":\"[[\\\"ms-dotnettools.csdevkit#csdevkit.gettingStarted\\\",{\\\"firstSeen\\\":1725155401584,\\\"stepIDs\\\":[\\\"csdevkit.signInStep\\\",\\\"csdevkit.setupEnvironmentStep\\\",\\\"csdevkit.openWorkspaceStep\\\",\\\"csdevkit.createNewProjectStep\\\",\\\"csdevkit.launchDebugAndTestStep\\\",\\\"csdevkit.learnMoreStep\\\"],\\\"manaullyOpened\\\":false}],[\\\"ms-python.python#pythonWelcome\\\",{\\\"firstSeen\\\":1725155401584,\\\"stepIDs\\\":[\\\"python.createPythonFolder\\\",\\\"python.createPythonFile\\\",\\\"python.installPythonWin8\\\",\\\"python.installPythonMac\\\",\\\"python.installPythonLinux\\\",\\\"python.createEnvironment\\\",\\\"python.runAndDebug\\\",\\\"python.learnMoreWithDS\\\"],\\\"manaullyOpened\\\":false}],[\\\"ms-python.python#pythonDataScienceWelcome\\\",{\\\"firstSeen\\\":1725155401584,\\\"stepIDs\\\":[\\\"python.installJupyterExt\\\",\\\"python.createNewNotebook\\\",\\\"python.openInteractiveWindow\\\",\\\"python.dataScienceLearnMore\\\"],\\\"manaullyOpened\\\":false}],[\\\"msjsdiag.vscode-react-native#RNTGetStarted\\\",{\\\"firstSeen\\\":1725155401584,\\\"stepIDs\\\":[\\\"settingUpCommonEnvironment\\\",\\\"settingUpExpoEnvironment\\\",\\\"settingUpWindowsEnvironment\\\",\\\"settingUpMacOsEnvironment\\\",\\\"hermesEngine\\\",\\\"runAndDebugReactNativeApp\\\",\\\"exploreExtensionFeatures\\\"],\\\"manaullyOpened\\\":false}]]\",\"menu.hiddenCommands\":\"{\\\"ViewTitle\\\":[\\\"workbench.action.terminal.focus\\\",\\\"workbench.action.terminal.split\\\",\\\"workbench.action.terminal.new\\\",\\\"workbench.files.action.createFolderFromExplorer\\\",\\\"workbench.files.action.refreshFilesExplorer\\\",\\\"workbench.files.action.collapseExplorerFolders\\\"],\\\"EditorTitle\\\":[\\\"workbench.action.splitEditor\\\"]}\",\"commandPalette.mru.cache\":\"{\\\"usesLRU\\\":true,\\\"entries\\\":[{\\\"key\\\":\\\"workbench.action.openRawDefaultSettings\\\",\\\"value\\\":2},{\\\"key\\\":\\\"workbench.action.openSettingsJson\\\",\\\"value\\\":3}]}\",\"commandPalette.mru.counter\":\"4\"}}"}
+{
+    "editor.copyWithSyntaxHighlighting": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.emptySelectionClipboard": false,
+    "workbench.editor.enablePreview": false,
+    "window.newWindowDimensions": "inherit",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.trimTrailingWhitespace": true,
+    "diffEditor.renderSideBySide": false,
+    "editor.snippetSuggestions": "top",
+    "editor.detectIndentation": false,
+    "window.nativeFullScreen": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "workbench.editor.showTabs": "none",
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "off",
+    "editor.guides.indentation": false,
+    // Silence the Noise
+    "breadcrumbs.enabled": false,
+    "scm.diffDecorations": "none",
+    "editor.hover.delay": 1500,
+    "editor.hover.enabled": true,
+    "editor.matchBrackets": "never",
+    "workbench.tips.enabled": false,
+    "editor.colorDecorators": false,
+    "git.decorations.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.lightbulb.enabled": "off",
+    "editor.selectionHighlight": false,
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": "off",
+    "problems.decorations.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    // Typography
+    "editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
+    "editor.suggestFontSize": 16,
+    "editor.suggestLineHeight": 30,
+    "terminal.integrated.lineHeight": 1.5,
+    "terminal.integrated.fontSize": 16,
+    "search.useIgnoreFiles": false,
+    "search.exclude": {
+        // Hide everything in /vendor, except the "laravel" and "livewire" folder.
+        "**/vendor/{[^l],?[^ai]}*": true,
+        // Hide everything in /public, except "index.php"
+        "**/public/{[^i],?[^n]}*": true,
+        "**/node_modules": true,
+        "**/dist": true,
+        "**/_ide_helper.php": true,
+        "**/composer.lock": true,
+        "**/package-lock.json": true,
+        "storage": true,
+        ".phpunit.result.cache": true
+    },
+    /**
+    * Code
+    **/
+    // Include "-" in word selection.
+    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+    "emmet.includeLanguages": {
+        "blade": "html",
+        "vue-html": "html",
+        "vue": "html",
+        "react": "html",
+        "javascript": "html"
+    },
+    "files.associations": {
+        ".php_cs": "php",
+        ".php_cs.dist": "php"
+    },
+    /**
+    * PHP
+    **/
+    "php.suggest.basic": false,
+    /**
+    * Prettier
+    **/
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[tailwindcss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+        "editor.formatOnSave": true
+    },
+    "prettier.requireConfig": true,
+    "prettier.useEditorConfig": false,
+    "explorer.sortOrder": "type",
+    "prettier.tabWidth": 4,
+    "vetur.format.options.tabSize": 4,
+    "workbench.tree.indent": 15,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.formatOnSave": true
+    },
+    "editor.wordWrapColumn": 120,
+    "files.autoSave": "afterDelay",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features",
+        "editor.formatOnSave": true
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.linkedEditing": true,
+    "editor.formatOnSave": true,
+    // "editor.fontLigatures": false,
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig'",
+    "diffEditor.wordWrap": "on",
+    "notebook.output.wordWrap": true,
+    "editor.fontSize": 16,
+    "editor.minimap.maxColumn": 250,
+    "codesnap.containerPadding": "8em",
+    "codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 12px 24px",
+    "explorer.confirmDelete": false,
+    "editor.accessibilitySupport": "off",
+    "chat.editor.wordWrap": "on",
+    "editor.wordWrap": "wordWrapColumn",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "html"
+    },
+    "tailwindCSS.experimental.configFile": null,
+    "editor.fontWeight": "400",
+    "workbench.activityBar.location": "bottom",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "codesnap.backgroundColor": "#FFC540",
+    "codesnap.showLineNumbers": false,
+    "codesnap.roundedCorners": true,
+    "editor.padding.top": 16,
+    "editor.cursorBlinking": "solid",
+    "editor.stickyScroll.enabled": false,
+    "editor.lineHeight": 32,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "keyword",
+                    "variable.language",
+                    "entity.other.attribute-name.html",
+                    "entity.other.attribute-name",
+                    "keyword.control",
+                    "storage.type",
+                    "comment",
+                    "comment.block",
+                    "comment.line"
+                ],
+                "settings": {
+                    "fontStyle": ""
+                }
+            }
+        ]
+    },
+    "material-icon-theme.saturation": 0,
+    "vscode_custom_css.imports": [
+        "file:///Users/glennraya/custom-vscode.css",
+        "file:///Users/glennraya/vscode-script.js"
+    ],
+    "workbench.colorTheme": "Min Light",
+    "workbench.iconTheme": "symbols",
+    "material-icon-theme.files.color": "#42a5f5",
+    "workbench.tree.enableStickyScroll": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.productIconTheme": "fluent-icons",
+    "python.createEnvironment.trigger": "off",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "notebook.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.bracketSpacing": false,
+    "window.menuBarVisibility": "toggle",
+    "update.mode": "manual",
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/dist": true
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "explorer.confirmDragAndDrop": false
+}
