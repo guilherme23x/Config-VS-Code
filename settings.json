@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 40,
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "glassit.alpha": 235,
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.showTabs": "none",
+    "python.createEnvironment.trigger": "off",
+    "editor.smoothScrolling": true
+}
